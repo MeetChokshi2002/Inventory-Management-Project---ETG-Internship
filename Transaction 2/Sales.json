@@ -1,0 +1,21 @@
+
+----------------------------- Transaction ID = 10001 ------------------------------
+
+--------     -------      ---------                           -----        --------    
+Item No.     Item ID      Item Name                           Quantity     Rate        
+--------     -------      ---------                           -----        --------    
+1            1            Cadbury Perk Home Treats            10           660         
+2            6            Cadbury Dairy Milk Shots            40           4480        
+3            31           Bar One                             10           150         
+4            30           Cadbury Silk Oreo                   42           6132        
+--------     -------      ---------                           -----        --------    
+TOTAL AMOUNT RECEIVED ===> 11422
+
+----------------------------- Transaction ID = 10002 ------------------------------
+
+--------     -------      ---------                           -----        --------    
+Item No.     Item ID      Item Name                           Quantity     Rate        
+--------     -------      ---------                           -----        --------    
+1            26           Cadbury 5 Star Home Treats          16           1840        
+--------     -------      ---------                           -----        --------    
+TOTAL AMOUNT RECEIVED ===> 1840
