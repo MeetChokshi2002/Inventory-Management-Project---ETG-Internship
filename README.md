@@ -4,16 +4,16 @@ The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), un
 
 # I have added various features. :octocat:
 
-##**The various features included in the Inventory Management System are :-**
+## **The various features included in the Inventory Management System are :-**
 
 - **Purchase Items**
 - **Add Items**
 - **View Inventory**
-- **View Cart**
+- **View Cart :shopping_cart:**
 - **Checkout**
-- **Billing**
+- **Billing :receipt:**
 
-##**I have created two .json files,**
+## **I have created two .json files,**
 - **The file "DataBase.json" will cary the data of items present in the inventory & will be updated accordingly.**
 - **The file "Sales.json" will cary all the transctions with transaction id's, also it will have every past transaction.**
 
@@ -21,7 +21,8 @@ The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), un
 # Feel free to see my code on Google Colab
 [Go to Colab](https://colab.research.google.com/drive/1KGcUuTvZLhr_I7w0GsKQJuok5P9miGZO?usp=sharing)
 
-# Contact & Review Code
-Contact me by mail - meetchokshi2002@gmail.com
+# Contact / Review Code OR Collaboration
 
-I would appreciate if send a review of my code. Especially Ashish Sir.
+Contact me by email - meetchokshi2002@gmail.com
+
+I would appreciate if you send a review of my code. Especially Ashish Sir.
