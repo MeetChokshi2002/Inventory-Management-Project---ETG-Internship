@@ -1,3 +1,5 @@
+![Inventory Management System](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.assetinfinity.com%2Fblog%2Finventory-management-system-objectives&psig=AOvVaw1sbhS5lqfGT-1x7sAeNZqu&ust=1631086177571000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD41N-r7PICFQAAAAAdAAAAABAD)
+
 # Inventory-Management-Project---ETG-Internship 🚀
 Welcome to my, Inventory Management Project created in Python3 Language.
 The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), under guidance of [Ashish Jangra](https://github.com/AshishJangra27), in the ongoing ML/AI Internship at ETG. 
