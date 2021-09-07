@@ -13,7 +13,7 @@ The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), un
 - **Checkout**
 - **Billing**
 
-##**I have created two .json files,
+##**I have created two .json files,**
 - **The file "DataBase.json" will cary the data of items present in the inventory & will be updated accordingly.**
 - **The file "Sales.json" will cary all the transctions with transaction id's, also it will have every past transaction.**
 
