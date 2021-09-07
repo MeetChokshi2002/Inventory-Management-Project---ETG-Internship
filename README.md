@@ -1,4 +1,4 @@
-# 🚀 Inventory-Management-Project---ETG-Internship
+# Inventory-Management-Project---ETG-Internship 🚀
 Welcome to my, Inventory Management Project created in Python3 Language.
 The project is created by [Meet Chokshi](https://github.com/MeetChokshi2002), under guidance of [Ashish Jangra](https://github.com/AshishJangra27), on the ongoing ML/AI Internship at ETG. 
 
